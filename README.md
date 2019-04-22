@@ -1,1 +1,0 @@
-# SDL_lab_mongodb
